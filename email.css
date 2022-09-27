@@ -1,0 +1,138 @@
+*{
+  margin:0;
+  padding:0;
+}
+.fa {
+    padding: 10px;
+    font-size: 35px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 6px 5px;
+  }
+
+  .fa-facebook {
+
+    color: black;
+    ;
+  }
+
+  .fa-twitter {
+
+    color: black;
+  }
+
+  .fa-instagram {
+
+    color: black;
+  }
+
+  .fa-pinterest {
+
+    color: black;
+  }
+
+  .box {
+    background-color: white;
+    width: 600px;
+    height: 1250px;
+    border-right: 65px solid lightblue;
+    border-left: 65px solid lightblue;
+    border-top: 65px solid lightblue;
+    border-bottom: 65px solid lightblue;
+    padding: 0px;
+    margin-top: 0px;
+  }
+
+  .head3{
+    text-align:left;
+    margin-top:35px;
+   
+  }
+
+  .imagine{
+    float:right; 
+    width:200px;
+    height: 195px;
+    margin: 0px;
+  }
+  .imagine2{
+    float:left;
+          width:200px;
+           height:90px;
+           margin-top: 25px;
+  }
+  .headnew{
+    text-align:left;
+    margin-top: 25px;
+  }
+  .anotherpara{
+    text-align:left;
+    font-size:12px;
+    margin-top: 5px;
+  }
+  .nextpara{
+    margin-top:8px;
+    text-align:left;
+    font-size:15px;
+  }
+  
+  
+
+  .mainbox {
+    padding: 5px;
+  }
+  img{
+    width:600px;
+    height:470px;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: red;
+    box-shadow: 0 9px #999;
+
+  }
+  .s1{
+    margin-left:0px;
+  }
+  .s2{
+    margin-left:268px;
+  }
+  .s3{
+    margin-left:0px;
+    margin-top:2px;
+  }
+  .s4{
+    margin-left:336px;
+    margin-top: 2px;
+  }
+
+  .button:hover {
+    background-color: red;
+    color: white;
+  }
+
+  .button:active {
+    background-color: blue;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .para{
+    margin-top: -4px;
+    padding-top:28px ; 
+    padding-bottom:28px; 
+    padding-left:10px; 
+    background-color:darkblue; 
+    color:white; 
+    text-align:left;
+  }
